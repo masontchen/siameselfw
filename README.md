@@ -1,5 +1,5 @@
 # siameselfw
-Distinguishing faces using a Siamese network
+Face recognition using a Siamese network
 
 Images are downloaded from LFW Face Database.
 
